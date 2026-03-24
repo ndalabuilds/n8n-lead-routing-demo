@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sarah Johnson",
+    "business": "BrightTax Solutions",
+    "email": "sarah@brighttax.example",
+    "message": "We need help automating lead handling, client onboarding, and internal admin tasks. Looking for an implementation partner this month."
+  },
+  {
+    "name": "Michael Reed",
+    "business": "Northside Fitness",
+    "email": "michael@northside.example",
+    "message": "Can you build us a basic booking flow and automate customer follow-ups?"
+  },
+  {
+    "name": "Unknown",
+    "business": "",
+    "email": "promo@randomoffers.example",
+    "message": "Boost your SEO ranking instantly with our guaranteed package."
+  }
+]
