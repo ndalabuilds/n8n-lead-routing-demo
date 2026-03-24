@@ -1,0 +1,23 @@
+[
+  {
+    "category": "Qualified lead",
+    "priority": "High",
+    "summary": "Accounting business wants automation support soon",
+    "route_to": "sales@company.example",
+    "suggested_action": "Send discovery reply and log in CRM"
+  },
+  {
+    "category": "Qualified lead",
+    "priority": "Medium",
+    "summary": "Fitness business wants booking and follow-up automation",
+    "route_to": "sales@company.example",
+    "suggested_action": "Send intro reply and offer short discovery call"
+  },
+  {
+    "category": "Spam / irrelevant",
+    "priority": "Low",
+    "summary": "Promotional SEO outreach not relevant",
+    "route_to": "archive",
+    "suggested_action": "Do not notify team"
+  }
+]
